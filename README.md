@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DJSTARWOLF
+- 👋 Hi, I’m @dannylombardo
 - 👀 I’m interested in computers and anything to do with tech
 - 🌱 I’m currently learning c++
 
